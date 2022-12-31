@@ -44,7 +44,7 @@
     "eslint-plugin-react": "7.x",
     "eslint-plugin-react-hooks": "1.x",
     "jest": "^24.9.0",
-    "microbundle": "^0.11.0",
+    "microbundle": "^0.15.1",
     "prettier": "1.x",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
